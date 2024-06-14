@@ -8,7 +8,7 @@ Alefe Gadioli - alefe.gadioli@edu.ufes.br
 
 Priscilla Benevides - priscilla.benevides@edu.ufes.br
 <!-- <a href="https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN">Jinwei Yuan</a> -->
-<div><a href="https://github.com/alefeg2020/2024-1-P1-Dengue-prediction/blob/main/1%C2%AA_Projeto_Intelige%CC%82ncia_Computacional_em_Sau%CC%81de-1.pdf)"> Artigo </a> </div> 
+<div><a href="https://github.com/intel-comp-saude-ufes/2024-1-P1-Dengue-prediction/blob/main/1%C2%AA_Projeto_Intelige%CC%82ncia_Computacional_em_Sau%CC%81de.pdf"> Artigo </a> </div> 
 
 <div><a href="https://youtu.be/u0VNPSf90hY"> Video de Apresentação </a> </div> 
 
